@@ -43,7 +43,7 @@
         display: none;
     }
     
-    .collection--title .p2 {
+    .collection--title p.p2 {
         display: block;
     }
 
