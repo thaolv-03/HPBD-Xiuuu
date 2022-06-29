@@ -137,7 +137,7 @@ html {
     color: #fff;
 }
 
-.collection--title .p2 {
+.collection--title p.p2 {
     display: none;
 }
 
