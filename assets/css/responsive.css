@@ -1,0 +1,65 @@
+@media screen and (max-width: 767px) {
+    .page {
+        height: 1000px !important;
+    }
+
+    body {
+        background-image: url(../img/bg11.jpg);
+        background-size: 104%;
+        background-repeat: repeat;
+    }
+
+    .content--collection {
+        background: none;
+    }
+
+    .content--wish img {
+        width: 80% !important;
+        margin-top: 4% !important;
+        margin-left: 5% !important;
+    }
+
+    .content--wish p {
+        width: 90% !important;
+        background-color: rgba(255, 255, 255, 0.7) !important;
+    }
+
+    .collection--title {
+        padding: 5px 20px !important;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .inf {
+        display: none;
+    }
+
+    .content--collection {
+        height: 50px !important;
+    }
+     
+    .collection--title .p1{
+        display: none;
+    }
+    
+    .collection--title .p2 {
+        display: block;
+    }
+
+    .collection--title #loginform{
+        display: none;
+    }
+
+    .myself {
+        position: absolute;
+        top: 1000px;
+        left: 30%;
+    }
+
+
+    #carouselExampleIndicators {
+        display: none !important;
+    }
+
+}

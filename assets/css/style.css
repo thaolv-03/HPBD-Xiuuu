@@ -32,7 +32,6 @@ html {
 
 .page {
     width: 100%;
-
 }
 
 .content {
@@ -136,6 +135,10 @@ html {
     font-family: 'Bangers', sans-serif;
     font-size: 42px;
     color: #fff;
+}
+
+.collection--title .p2 {
+    display: none;
 }
 
 #loginform {
