@@ -155,7 +155,6 @@ html {
 
 .password span {
     font-size: 15px;
-    /* color: red; */
     margin-left: 35px;
     margin-top: 5px;
 }
@@ -165,7 +164,6 @@ html {
     padding: 0 10px;
     height: 40px;
     margin-left: 50px;
-    /* margin-bottom: 10px; */
     border-radius: 5px;
     outline: none;
     border: none;
